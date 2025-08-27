@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
@@ -54,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
