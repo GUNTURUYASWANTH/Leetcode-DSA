@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
