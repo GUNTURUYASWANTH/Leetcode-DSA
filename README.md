@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0620-not-boring-movies) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
