@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
