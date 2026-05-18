@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
