@@ -2,7 +2,12 @@ class Solution {
     public int reverseBits(int n) {
         String s = (String.format("%32s",Integer.toBinaryString(n)).replace(' ','0'));
         s = reverse(s);
-        return Integer.parseInt(s,2);
+        int result = 0;
+        for(int i=0;i<s.length();i++)
+        {
+            result = result * 2 + (s.charAt(i)-'0');
+        }
+        return result;
     }
 
     public static String reverse(String s)
