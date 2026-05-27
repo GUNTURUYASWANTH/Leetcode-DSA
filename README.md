@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0137-single-number-ii) |
