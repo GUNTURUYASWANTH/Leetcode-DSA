@@ -3,18 +3,17 @@ class Solution {
         if(nums.length == 1)
             return nums[0];
         int max = 0;
-        int count = 0;
-        for(int num : nums)
+        for(int i=0;i<nums.length;i++)
         {
-            if(num==1)
-            {
+            if(nums[i] != 1)
+                continue;
+            int count = 0;
+            while(i< nums.length && nums[i]==1)
+            {    
                 count++;
-                max = Math.max(count,max);
+                i++;
             }
-            else
-            {
-                count = 0;
-            }
+            max = Math.max(max,count);
         }
         return max;
     }
