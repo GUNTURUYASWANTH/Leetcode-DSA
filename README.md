@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2432-number-of-zero-filled-subarrays) |
