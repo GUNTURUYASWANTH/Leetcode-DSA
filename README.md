@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -126,8 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
