@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3794-reverse-string-prefix](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
