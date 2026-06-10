@@ -5,11 +5,10 @@ class Solution {
         {
             if(palindrom(s))
             {
-                str = s;
-                break;
+                return s;
             }
         }
-        return str;
+        return "";
     }
     public static boolean  palindrom(String s)
     {
@@ -20,7 +19,7 @@ class Solution {
         {
             if(s.charAt(i)!=s.charAt(j))
             {
-                b = false;
+                return false;
             }
             i++;
             j--;
