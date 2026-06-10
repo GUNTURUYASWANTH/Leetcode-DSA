@@ -13,13 +13,12 @@ class Solution {
     }
     public static boolean  palindrom(String s)
     {
-        char[] ch = s.toCharArray();
         int i= 0;
-        int j = ch.length-1;
+        int j = s.length()-1;
         boolean b = true;
         while(i<j)
         {
-            if(ch[i]!=ch[j])
+            if(s.charAt(i)!=s.charAt(j))
             {
                 b = false;
             }
