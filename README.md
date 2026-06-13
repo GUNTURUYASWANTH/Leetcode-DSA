@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0861-flipping-an-image) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## Database
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/GUNTURUYASWANTH/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
